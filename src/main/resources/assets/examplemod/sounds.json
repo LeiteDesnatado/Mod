@@ -1,0 +1,23 @@
+{
+	"item.fart": {
+		"category": "item",
+		"subtitle": "item.fart.sub",
+		"sounds": [
+			{
+				"name": "examplemod:item/fart",
+				"stream": true
+			}
+		]
+	},
+	"item.rick_disc": {
+		"category": "item",
+		"subtitle": "item.rick_disc.sub",
+		"sounds": [
+			{
+				"name": "examplemod:item/rick_disc",
+				"stream": true
+			}
+		]
+	
+	}
+}
